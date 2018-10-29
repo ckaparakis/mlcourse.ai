@@ -114,3 +114,7 @@ data/athlete_events.csv
 
 # solutions
 *_solution.ipynb
+
+data/websites_test_sessions\.csv
+
+data/websites_train_sessions\.csv
